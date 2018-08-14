@@ -67,7 +67,7 @@ ul.nav.navbar li a:focus{
 .w3ls-hover span::before {
 	content: attr(data-letters);
 	position: absolute;
-	color: #000;
+	color: red;
 	left: 0;
 	overflow: hidden;
 	white-space: nowrap;
